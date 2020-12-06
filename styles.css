@@ -1,36 +1,40 @@
-body {
-	background: #bdbdbd;
+body{
+    background: black;
+    font-family: Arial;
 }
-
-.imagen {
-	
-    width: 500px;
-    height: 500px;
-    display: block;
+.main{
     margin: auto;
+    width: 80%;
+    background: #bdbdbd    
 }
-.textop {
-
-text-align:left;
-	color:#000;  
-	margin-left: 700px;
+.tittle-container{
+    background: white;
+    width: 100%;
+    }
+h1{
+    padding: 15px;
+    text-align: center;
 }
-.textoh1{
-	text-align:center;
-	color:#000;  
-	margin: auto;	
-	}
-    .textop1 {
-
-text-align:left;
-	color:#000;  
-	margin-left: 700px;
+.post{
+    margin: auto;
+    width: 50%;
+    background: white;    
 }
-.textop2 {
-top:100px;
-text-align:center;
-	color:#000;  
-	margin-left: 700px;
+img{
+    width: 100%;
 }
-
-    
+h2{
+    float: left;
+    padding-left: 10px;
+}
+span{
+    float:right;
+    padding-top: 25px;
+    padding-right: 10px;
+    color:  grey;
+    font-family: Arial;
+}
+p{
+    padding: 15px;
+    text-align: justify;
+}
