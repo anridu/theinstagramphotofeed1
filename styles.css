@@ -1,0 +1,36 @@
+body {
+	background: #bdbdbd;
+}
+
+.imagen {
+	
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+.textop {
+
+text-align:left;
+	color:#000;  
+	margin-left: 700px;
+}
+.textoh1{
+	text-align:center;
+	color:#000;  
+	margin: auto;	
+	}
+    .textop1 {
+
+text-align:left;
+	color:#000;  
+	margin-left: 700px;
+}
+.textop2 {
+top:100px;
+text-align:center;
+	color:#000;  
+	margin-left: 700px;
+}
+
+    
